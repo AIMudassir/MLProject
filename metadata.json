@@ -1,0 +1,7 @@
+{
+  "name": "SketchRealism AI",
+  "description": "An advanced Sketch-to-Image generation system powered by Gemini 2.5. Draw a sketch, provide a prompt, and watch it transform into a realistic image via a conversational AI agent interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
